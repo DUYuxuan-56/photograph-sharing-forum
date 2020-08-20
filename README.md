@@ -1,5 +1,5 @@
-# Social network
-This is a simple social network for users to share life and explore interesting topic
+# Photograph Sharing Forum
+This is a simple Photograph Sharing Forum for users to share life and explore interesting topic
 ## content
 ### login page
 ![avatar](src/main/resources/public/sn/login.PNG)
